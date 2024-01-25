@@ -1,5 +1,5 @@
 # The connection between pedestrians, vehicles and Toronto - The impact on urban transportation in Toronto based on pedestrian-vehicle correlations
-Overview of Paper
+## Overview of Paper
 This report is based on research on trends and correlations in pedestrian and vehicle counts over time to explore the current status of Toronto's transportation planning and discuss future transportation decisions. Use ChatGPT4 as an auxiliary tool for data analysis.
 
 File Structure
